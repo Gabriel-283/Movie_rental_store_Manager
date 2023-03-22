@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\bin\Debug\net6.0\MovieRentalStoreManager.Data.deps.json
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\bin\Debug\net6.0\MovieRentalStoreManager.Data.dll
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\bin\Debug\net6.0\MovieRentalStoreManager.Data.pdb
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.dll
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\refint\MovieRentalStoreManager.Data.dll
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.pdb
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\ref\MovieRentalStoreManager.Data.dll
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\bin\Debug\net6.0\MovieRentalStoreManager.BLL.dll
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\bin\Debug\net6.0\MovieRentalStoreManager.BLL.pdb
+C:\Users\Gabriel\source\repos\Movie_rental_store_Manager\MovieRentalStoreManager.Data\obj\Debug\net6.0\MovieRentalStoreManager.Data.csproj.CopyComplete
